@@ -1,5 +1,8 @@
 {
   "projects": {
-    "default": "superstar0718"
-  }
+    "default": "chrischan0507-c2849",
+    "chrischan-portfolio": "chrischan0507-c2849"
+  },
+  "targets": {},
+  "etags": {}
 }
